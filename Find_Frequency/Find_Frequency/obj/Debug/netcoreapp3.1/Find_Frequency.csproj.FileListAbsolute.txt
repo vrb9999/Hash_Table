@@ -1,0 +1,14 @@
+D:\RFP\Hash_Table\Find_Frequency\Find_Frequency\bin\Debug\netcoreapp3.1\Find_Frequency.exe
+D:\RFP\Hash_Table\Find_Frequency\Find_Frequency\bin\Debug\netcoreapp3.1\Find_Frequency.deps.json
+D:\RFP\Hash_Table\Find_Frequency\Find_Frequency\bin\Debug\netcoreapp3.1\Find_Frequency.runtimeconfig.json
+D:\RFP\Hash_Table\Find_Frequency\Find_Frequency\bin\Debug\netcoreapp3.1\Find_Frequency.runtimeconfig.dev.json
+D:\RFP\Hash_Table\Find_Frequency\Find_Frequency\bin\Debug\netcoreapp3.1\Find_Frequency.dll
+D:\RFP\Hash_Table\Find_Frequency\Find_Frequency\bin\Debug\netcoreapp3.1\Find_Frequency.pdb
+D:\RFP\Hash_Table\Find_Frequency\Find_Frequency\obj\Debug\netcoreapp3.1\Find_Frequency.csproj.AssemblyReference.cache
+D:\RFP\Hash_Table\Find_Frequency\Find_Frequency\obj\Debug\netcoreapp3.1\Find_Frequency.GeneratedMSBuildEditorConfig.editorconfig
+D:\RFP\Hash_Table\Find_Frequency\Find_Frequency\obj\Debug\netcoreapp3.1\Find_Frequency.AssemblyInfoInputs.cache
+D:\RFP\Hash_Table\Find_Frequency\Find_Frequency\obj\Debug\netcoreapp3.1\Find_Frequency.AssemblyInfo.cs
+D:\RFP\Hash_Table\Find_Frequency\Find_Frequency\obj\Debug\netcoreapp3.1\Find_Frequency.csproj.CoreCompileInputs.cache
+D:\RFP\Hash_Table\Find_Frequency\Find_Frequency\obj\Debug\netcoreapp3.1\Find_Frequency.dll
+D:\RFP\Hash_Table\Find_Frequency\Find_Frequency\obj\Debug\netcoreapp3.1\Find_Frequency.pdb
+D:\RFP\Hash_Table\Find_Frequency\Find_Frequency\obj\Debug\netcoreapp3.1\Find_Frequency.genruntimeconfig.cache
