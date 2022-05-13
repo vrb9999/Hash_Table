@@ -1,0 +1,14 @@
+D:\RFP\Hash_Table\Find_Frequency_Paragraph\Find_Frequency_Paragraph\bin\Debug\netcoreapp3.1\Find_Frequency_In_Paragraph.exe
+D:\RFP\Hash_Table\Find_Frequency_Paragraph\Find_Frequency_Paragraph\bin\Debug\netcoreapp3.1\Find_Frequency_In_Paragraph.deps.json
+D:\RFP\Hash_Table\Find_Frequency_Paragraph\Find_Frequency_Paragraph\bin\Debug\netcoreapp3.1\Find_Frequency_In_Paragraph.runtimeconfig.json
+D:\RFP\Hash_Table\Find_Frequency_Paragraph\Find_Frequency_Paragraph\bin\Debug\netcoreapp3.1\Find_Frequency_In_Paragraph.runtimeconfig.dev.json
+D:\RFP\Hash_Table\Find_Frequency_Paragraph\Find_Frequency_Paragraph\bin\Debug\netcoreapp3.1\Find_Frequency_In_Paragraph.dll
+D:\RFP\Hash_Table\Find_Frequency_Paragraph\Find_Frequency_Paragraph\bin\Debug\netcoreapp3.1\Find_Frequency_In_Paragraph.pdb
+D:\RFP\Hash_Table\Find_Frequency_Paragraph\Find_Frequency_Paragraph\obj\Debug\netcoreapp3.1\Find_Frequency_In_Paragraph.csproj.AssemblyReference.cache
+D:\RFP\Hash_Table\Find_Frequency_Paragraph\Find_Frequency_Paragraph\obj\Debug\netcoreapp3.1\Find_Frequency_In_Paragraph.GeneratedMSBuildEditorConfig.editorconfig
+D:\RFP\Hash_Table\Find_Frequency_Paragraph\Find_Frequency_Paragraph\obj\Debug\netcoreapp3.1\Find_Frequency_In_Paragraph.AssemblyInfoInputs.cache
+D:\RFP\Hash_Table\Find_Frequency_Paragraph\Find_Frequency_Paragraph\obj\Debug\netcoreapp3.1\Find_Frequency_In_Paragraph.AssemblyInfo.cs
+D:\RFP\Hash_Table\Find_Frequency_Paragraph\Find_Frequency_Paragraph\obj\Debug\netcoreapp3.1\Find_Frequency_In_Paragraph.csproj.CoreCompileInputs.cache
+D:\RFP\Hash_Table\Find_Frequency_Paragraph\Find_Frequency_Paragraph\obj\Debug\netcoreapp3.1\Find_Frequency_In_Paragraph.dll
+D:\RFP\Hash_Table\Find_Frequency_Paragraph\Find_Frequency_Paragraph\obj\Debug\netcoreapp3.1\Find_Frequency_In_Paragraph.pdb
+D:\RFP\Hash_Table\Find_Frequency_Paragraph\Find_Frequency_Paragraph\obj\Debug\netcoreapp3.1\Find_Frequency_In_Paragraph.genruntimeconfig.cache
